@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu29885-netizen/APS/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vtu29885-netizen/APS/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu29885-netizen/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/vtu29885-netizen/APS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vtu29885-netizen/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu29885-netizen/APS/tree/master/0739-daily-temperatures) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu29885-netizen/APS/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu29885-netizen/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/vtu29885-netizen/APS/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu29885-netizen/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu29885-netizen/APS/tree/master/0946-validate-stack-sequences) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu29885-netizen/APS/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
