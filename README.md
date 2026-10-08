@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu29885-netizen/APS/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu29885-netizen/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29885-netizen/APS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu29885-netizen/APS/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/vtu29885-netizen/APS/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vtu29885-netizen/APS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu29885-netizen/APS/tree/master/0622-design-circular-queue) |
@@ -168,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu29885-netizen/APS/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu29885-netizen/APS/tree/master/0025-reverse-nodes-in-k-group) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu29885-netizen/APS/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu29885-netizen/APS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu29885-netizen/APS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
