@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vtu29885-netizen/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu29885-netizen/APS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu29885-netizen/APS/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/vtu29885-netizen/APS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu29885-netizen/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu29885-netizen/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu29885-netizen/APS/tree/master/0946-validate-stack-sequences) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29885-netizen/APS/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu29885-netizen/APS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
