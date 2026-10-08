@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu29885-netizen/APS/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu29885-netizen/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29885-netizen/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/vtu29885-netizen/APS/tree/master/0622-design-circular-queue) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu29885-netizen/APS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu29885-netizen/APS/tree/master/0257-binary-tree-paths) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu29885-netizen/APS/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
