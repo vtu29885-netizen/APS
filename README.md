@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/vtu29885-netizen/APS/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29885-netizen/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29885-netizen/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29885-netizen/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -187,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu29885-netizen/APS/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29885-netizen/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29885-netizen/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
